@@ -20,10 +20,8 @@ I'm a **Software Engineer** from Pakistan, passionate about technology, software
 - Programming: **C, C++, Java, Python**
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/hafsimaryam)
-- 📧 [Email](mailto:inshrahmaryam68@gmail.com)
-- 🐦 [Twitter](https://twitter.com/lazybeingg)
-- 📸 [Instagram](https://www.instagram.com/inshrahmaryam_)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hafsa-maryam08/)
+- 📧 [Email](mailto:hafsamaryam.823@gmail.com)
 
 ## 🛠️ Languages & Tools
 **Languages:** C, C++, Java, JavaScript, Python, PHP, SCSS  
