@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hafsa Maryam
+# Hey, I'm Hafsa Maryam
 
 ## 🚀 About Me
 I'm a **Software Engineer** from Pakistan, passionate about technology, software development, and AI. I enjoy building impactful projects and contributing to the developer community.
