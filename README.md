@@ -19,6 +19,10 @@
 
 ⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
 
-<h3 align="left">Let's Connect</h3>
-<p align="left"> 
-<a href="https://linkedin.com/in/hafsa-maryam08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-maryam08" height="30" width="40" /></a>
+<h3 align="left">Get in Touch!</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/hafsa-maryam08" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with Hafsa Maryam on LinkedIn" height="30" width="40" />
+    </a>
+</p>
+
