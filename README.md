@@ -61,8 +61,9 @@
 </p>
 
 <p align="left">
-  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Drawio_logo.svg" alt="drawio" width="40" height="40"/> </a>
+  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Drawio_logo.svg" alt="drawio" width="40" height="40"/> </a>
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://www.phpmyadmin.net/static/images/logos/phpMyAdmin-logo.svg" alt="phpmyadmin" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Bash_logo.gif" alt="bash" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Bash_logo.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Scikit-learn_logo.svg" alt="scikit-learn" width="40" height="40"/> </a>
 </p>
+
