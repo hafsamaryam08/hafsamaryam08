@@ -56,5 +56,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&" alt="hafsamaryam08" /></p>
 
-<img src="https://media.giphy.com/media/3o72FJ7N77oFk0cA1W/giphy.gif" width="60"> <em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
+<em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
 
