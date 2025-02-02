@@ -5,14 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsamaryam08&label=Profile%20views&color=0e75b6&style=flat" alt="hafsamaryam08"/> </p>
 
 
-🔭 Currently a CS undergrad @ CUI
+🔭 Currently a CS undergrad at CUI
 
 🌱 Passionate about Software Development, AI and Web Technologies
 
-💬 Ask me about C, C++, Java, Python, SQL, HTML, CSS, Bootstrap, SASS, PHP, Laravel
+💬 Ask me about **C, C++, Java, Python, SQL, HTML, CSS, Bootstrap, SASS, PHP, Laravel**
 
 👨‍💻 I love building efficient and scalable applications
 
-📫 Reach me at: hafsamaryam.823@gmail.com
+📫 Reach me at: **hafsamaryam.823@gmail.com**
 
-⚡ Fun fact: I love watching K-dramas, and when inspiration strikes, I enjoy cooking! 🍜✨
+📄 Take a look at [My Resume]([https://drive.google.com/file/d/1qC_KBSlUoxIhDdrGRCJRhPfoFpCo2TEx/view?usp=drive_link](https://drive.google.com/file/d/1xcTGAogNFpG1iWwOV9jXf287wMFaR63B/view?usp=sharing))
+
+⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
