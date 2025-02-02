@@ -9,7 +9,7 @@
 
 🤖 Passionate about Software Development, AI and Web Technologies
 
-💬 Ask me about **C, C++, Java, Python, SQL, HTML, CSS, Bootstrap, SASS, PHP, Laravel**
+💡 Ask me about **C, C++, Java, Python, SQL, HTML, CSS, Bootstrap, SASS, PHP, Laravel**
 
 👨‍💻 I love building efficient and scalable applications
 
