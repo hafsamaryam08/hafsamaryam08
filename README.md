@@ -15,6 +15,6 @@
 
 📧 Reach me at: **hafsamaryam.823@gmail.com**
 
-📑 Check [My Resume]([https://drive.google.com/file/d/1qC_KBSlUoxIhDdrGRCJRhPfoFpCo2TEx/view?usp=drive_link](https://drive.google.com/file/d/1xcTGAogNFpG1iWwOV9jXf287wMFaR63B/view?usp=sharing)
+📑 Check my [Resume](https://drive.google.com/file/d/1xcTGAogNFpG1iWwOV9jXf287wMFaR63B/view?usp=sharing)
 
 ⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
