@@ -56,6 +56,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&" alt="hafsamaryam08" /></p>
 
+<img src="https://raw.githubusercontent.com/hafsamaryam08/hafsamaryam08/master/github-metrics.svg">
+
 <p align="center">
   <br><img src="https://raw.githubusercontent.com/hafsamaryam08/hafsamaryam08/master/assets/gifs/snake.svg" width="450px">
 </p>
