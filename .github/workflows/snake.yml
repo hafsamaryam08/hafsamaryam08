@@ -15,7 +15,7 @@ jobs:
       - name: Generate snake game from GitHub contributions
         uses: Platane/snk@v3
         with:
-          hafsamaryam08: ${{ github.repository_owner }}
+          hafsamaryam08: ${{ github.hafsamaryam08 }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
