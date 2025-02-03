@@ -57,11 +57,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&" alt="hafsamaryam08" /></p>
 
 <p align="center">
-  <br><img src="https://github.com/hafsamaryam08/hafsamaryam08/blob/master/assets/gifs/snake.svg" width="450px">
+  <br><img src="https://raw.githubusercontent.com/hafsamaryam08/hafsamaryam08/master/assets/gifs/snake.svg" width="450px">
 </p>
 
 <h2 align="center"> Hafsa's Stats
-  <br><img src="https://github.com/hafsamaryam08/hafsamaryam08/blob/master/github-metrics.svg"><br> 
+  <br><img src="https://raw.githubusercontent.com/hafsamaryam08/hafsamaryam08/master/github-metrics.svg"><br> 
 </h2>
 
 <em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
