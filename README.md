@@ -63,5 +63,7 @@
   <img src="https://hafsamaryam08.github.io/hafsamaryam08/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
+![snake animation](https://github.com/<seu hafsamaryam08>/<seu hafsamaryam08>/blob/output/github-contribution-grid-snake2.svg)
+
 <em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
 
