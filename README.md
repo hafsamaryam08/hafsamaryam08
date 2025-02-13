@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Hafsa ,Maryam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hey, I'm Hafsa Maryam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">CS Undergrad | C, C++, Java, Python, SQL | HTML, CSS, Bootstrap, SASS, PHP, Laravel | AI & Web Dev Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd4MjhoNnc3cmlqcjkxODJmcHpyYmFlYzY2a3IxOWI3c2t6NThxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
@@ -15,7 +15,7 @@
 
 📧 Reach me at: **hafsamaryam.823@gmail.com**
 
-📑 Check my [Resume](https://drive.google.com/file/d/1xcTGAogNFpG1iWwOV9jXf287wMFaR63B/view?usp=sharing)
+📑 Check my [Resume](https://drive.google.com/file/d/1x5gQchPjJ67FSs2vRj0Ocxk9THH9x4HS/view?usp=sharing)
 
 ⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
 
