@@ -20,7 +20,7 @@
 ⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
 
 ## Get in Touch!
-<p align="center">
+<p align="left">
    <a href="https://www.linkedin.com/in/hafsa-maryam08" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40px">
   </a>
