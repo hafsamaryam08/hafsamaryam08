@@ -22,13 +22,19 @@
 ## Get in Touch!
 <p align="left">
    <a href="https://www.linkedin.com/in/hafsa-maryam08">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40px">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="35px">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hafsamaryam.823@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="40px">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="35px">
   </a>
 </p>
+
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,redux,graphql,python,cpp,java,postman,git,github,netlify,threejs,php,figma,vscode,mysql&theme=light)])
+<be>
+
 
 ## My Coding Toolkit
 <p align="left">
