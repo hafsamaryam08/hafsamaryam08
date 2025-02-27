@@ -30,12 +30,6 @@
   </a>
 </p>
 
-### Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,redux,graphql,python,cpp,java,postman,git,github,netlify,threejs,php,figma,vscode,mysql&theme=light)])
-<be>
-
-
 ## My Coding Toolkit
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
