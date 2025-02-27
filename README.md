@@ -59,12 +59,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&theme=tokyonight" alt="hafsamaryam08" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsamaryam08&show_icons=true&locale=en&layout=compact" alt="hafsamaryam08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsamaryam08&show_icons=true&locale=en" alt="hafsamaryam08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&" alt="hafsamaryam08" /></p>
-
 <em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
 
