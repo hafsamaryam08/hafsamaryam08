@@ -22,7 +22,6 @@
 ## Get in Touch!
 [<img align="left" alt="Hafsa Maryam | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]  
 [<img align="left" alt="Hafsa Maryam | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]  
-
 [linkedin]: https://linkedin.com/in/hafsa-maryam08  
 [mail]: mailto:hafsamaryam.823@gmail.com  
 
