@@ -22,10 +22,11 @@
 ## Get in Touch!
 <p align="center">
    <a href="https://www.linkedin.com/in/hafsa-maryam08" target="_blank">
-    width="28px" <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40px">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:hafsamaryam.823@gmail.com">
-    width="28px" <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="40px">
   </a>
 </p>
 
