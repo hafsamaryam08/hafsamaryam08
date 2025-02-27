@@ -20,11 +20,14 @@
 ⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
 
 ## Get in Touch!
-[<img align="left" alt="Hafsa Maryam | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]  
-[<img align="left" alt="Hafsa Maryam | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]  
-[linkedin]: https://linkedin.com/in/hafsa-maryam08  
-[mail]: mailto:hafsamaryam.823@gmail.com  
-
+<p align="center">
+   <a href="https://www.linkedin.com/in/hafsamaryam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hafsamaryam.823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ## My Coding Toolkit
 <p align="left">
