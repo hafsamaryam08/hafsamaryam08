@@ -21,7 +21,7 @@
 
 ## Get in Touch!
 <p align="left">
-   <a href="https://www.linkedin.com/in/hafsa-maryam08" target="_blank">
+   <a href="https://www.linkedin.com/in/hafsa-maryam08" target="blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40px">
   </a>
   &nbsp;&nbsp;
