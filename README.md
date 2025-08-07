@@ -9,8 +9,6 @@
 
 🤖 Passionate about Software Development, AI and Web Technologies
 
-💡 Ask me about **Python, C, C++, Java, SQL, HTML, CSS, Bootstrap, SASS, PHP, Laravel**
-
 👨‍💻 I love building efficient and scalable applications
 
 📧 Reach me at: **hafsamaryam.823@gmail.com**
