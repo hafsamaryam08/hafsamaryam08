@@ -7,7 +7,7 @@
 
 🎓 Currently a CS undergrad at CUI
 
-🤖 Passionate about Software Development, AI and Web Technologies
+🤖 Passionate about Software Development, AI/ML & Web Technologies
 
 👨‍💻 I love building efficient and scalable applications
 
@@ -15,7 +15,7 @@
 
 📑 Check my [Resume](https://drive.google.com/file/d/19qJD_-EKqXLWs8B_jYbVOJmVUAXQddum/view?usp=sharing)
 
-⚡ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜✨
+✨ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜
 
 ## Get in Touch!
 <p align="left">
