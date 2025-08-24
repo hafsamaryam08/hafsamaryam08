@@ -57,5 +57,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&theme=tokyonight" alt="hafsamaryam08" /></p>
 
+![](https://github-readme-stats.vercel.app/api?username=Chali134&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chali134&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chali134&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 <em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
 
