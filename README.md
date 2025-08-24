@@ -51,9 +51,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></p>
 
 <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=hafsamaryam08&theme=tokyonight&hide_border=true" /></p>
 
