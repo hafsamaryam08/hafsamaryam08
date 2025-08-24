@@ -61,6 +61,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hafsamaryam08&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hafsamaryam08&theme=tokyonight&hide_border=true" />
+</p>
 
 <em><b>I enjoy collaborating with passionate individuals</b>—feel free to <b>reach out!</b> I'd love to connect and share ideas! :)</em>
 
