@@ -55,6 +55,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsamaryam08&show_icons=true&locale=en&theme=tokyonight" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsamaryam08&theme=tokyonight" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></p> 
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=hafsamaryam08&theme=tokyonight&hide_border=true" /></p>
+
 ![](https://github-readme-stats.vercel.app/api?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hafsamaryam08&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsamaryam08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
