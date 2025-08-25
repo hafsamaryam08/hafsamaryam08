@@ -5,10 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsamaryam08&label=Profile%20views&color=0e75b6&style=flat" alt="hafsamaryam08"/> </p>
 
 🎓 CS undergrad at CUI
+
 🤖 Passionate about AI/ML & Python Development
+
 💻 Love Building Intelligent Applications
+
 👨‍💻 Data Analysis, Visualization, NumPy, Pandas, Scikit-learn
+
 📧 Reach me at: **hafsamaryam.823@gmail.com**
+
 📑 Check my [Resume](https://drive.google.com/file/d/19qJD_-EKqXLWs8B_jYbVOJmVUAXQddum/view?usp=sharing)
 
 ✨ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜
