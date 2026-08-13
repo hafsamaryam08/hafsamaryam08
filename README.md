@@ -14,9 +14,11 @@
 
 📧 Reach me at: **hafsamaryam.823@gmail.com**
 
-📑 Check my [Resume](https://drive.google.com/file/d/1hw2RuBiRGw5EBc_1idh_C6MhIZSddS6P/view?usp=sharing)
+📑 Check my [Resume](https://drive.google.com/file/d/1cZvcicPVvWyW167lDvAYKwaI5C5yGdoU/view?usp=sharing)
 
-✨ Fun fact **I love watching K-dramas and when inspiration strikes, I enjoy cooking!** 🍜
+🌐 Explore my interactive case studies and live projects on my [Portfolio Website](https://hafsa-maryam.vercel.app/)
+
+✨ Fun fact **I love reading novels and when inspiration strikes, I enjoy cooking!** 🍜
 
 ## Get in Touch!
    <a href="https://www.linkedin.com/in/hafsa-maryam08">
