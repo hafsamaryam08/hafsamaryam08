@@ -2,7 +2,7 @@
 <h3 align="center">CS Graduate | AI/ML & Python Enthusiast | C++, Java, SQL | Web Dev: HTML, CSS, Bootstrap, PHP, Laravel</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd4MjhoNnc3cmlqcjkxODJmcHpyYmFlYzY2a3IxOWI3c2t6NThxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsamaryam08&label=Profile%20views&color=0e75b6&style=flat" alt="hafsamaryam08"/> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsamaryam08&label=Profile%20views&color=0e75b6&style=flat" alt="hafsamaryam08"/> </p> -->
 
 🎓 CS Graduate at CUI
 
@@ -14,7 +14,7 @@
 
 📧 Reach me at: **hafsamaryam.823@gmail.com**
 
-📑 Check my [Resume](https://drive.google.com/file/d/1cZvcicPVvWyW167lDvAYKwaI5C5yGdoU/view?usp=sharing)
+📑 Check my [Resume](https://drive.google.com/file/d/1u1NjDTUifLOYlVMbcLwmN-esgWi72RV1/view?usp=sharing)
 
 🌐 Explore my interactive case studies and live projects on my [Portfolio Website](https://hafsa-maryam.vercel.app/)
 
