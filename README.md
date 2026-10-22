@@ -25,7 +25,6 @@
   <a href="mailto:hafsamaryam.823@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="35px">
   </a>
-  <a href="https://hafsa-maryam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-hafsa--maryam.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ## My Coding Toolkit
