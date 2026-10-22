@@ -1,5 +1,5 @@
 <h1 align="center">Hey, It's Me Hafsa Maryam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">CS Graduate | Data Engineering & AI/ML | Python, SQL, Pandas, PostgreSQL | Web Dev: HTML, CSS, Bootstrap, PHP, Laravel</h3>
+<h3 align="center">CS Graduate | AI/ML & Data Engineering | Python, Scikit-learn, NLP, SQL, PostgreSQL</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd4MjhoNnc3cmlqcjkxODJmcHpyYmFlYzY2a3IxOWI3c2t6NThxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsamaryam08&label=Profile%20views&color=0e75b6&style=flat" alt="hafsamaryam08"/> </p>
@@ -25,6 +25,7 @@
   <a href="mailto:hafsamaryam.823@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="35px">
   </a>
+  <a href="https://hafsa-maryam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-hafsa--maryam.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ## My Coding Toolkit
