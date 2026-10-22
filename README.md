@@ -1,16 +1,14 @@
 <h1 align="center">Hey, It's Me Hafsa Maryam <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">CS Graduate | AI/ML & Python Enthusiast | C++, Java, SQL | Web Dev: HTML, CSS, Bootstrap, PHP, Laravel</h3>
+<h3 align="center">CS Graduate | Data Engineering & AI/ML | Python, SQL, Pandas, PostgreSQL | Web Dev: HTML, CSS, Bootstrap, PHP, Laravel</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd4MjhoNnc3cmlqcjkxODJmcHpyYmFlYzY2a3IxOWI3c2t6NThxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsamaryam08&label=Profile%20views&color=0e75b6&style=flat" alt="hafsamaryam08"/> </p>
 
-🎓 CS Graduate at CUI
+🎓 CS Graduate at CUI (CGPA 3.61)
 
-🤖 Passionate about AI/ML & Python Development
+🤖 Building toward data engineering and AI/ML, with a focus on Python and SQL
 
-💻 Love Building Intelligent Applications
-
-👨‍💻 Data Analysis, Visualization, NumPy, Pandas, Scikit-learn
+💻 Data Engineering: ETL pipelines, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn
 
 📧 Reach me at: **hafsamaryam.823@gmail.com**
 
@@ -37,6 +35,7 @@
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon.ico" alt="google-colab" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
    <!-- Data & ML -->
+   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
    <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
@@ -50,7 +49,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> </a>
    <!-- IDE & Version ControL -->
